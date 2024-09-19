@@ -60,6 +60,19 @@
         }
       ],
       "total": 49.99
+    },
+    {
+      "orderId": 102,
+      "date": "2024-10-05",
+      "items": [
+        {
+          "productId": 3,
+          "name": "Keyboard",
+          "quantity": 1,
+          "price": 49.99
+        }
+      ],
+      "total": 49.99
     }
   ]
 }
